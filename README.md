@@ -1,2 +1,2 @@
-# miguelvasquez.github.io
+# miguelvasquez
 Página personal de Miguel Vásquez
